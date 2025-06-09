@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+}
+.item {
+  background: white;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #ccc;
+}
+.checkout {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: green;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+input {
+  margin: 10px;
+  padding: 10px;
+  width: 80%;
+}
+button {
+  padding: 10px 20px;
+  background: orange;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
